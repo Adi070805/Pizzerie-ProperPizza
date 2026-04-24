@@ -1,0 +1,23 @@
+{
+  "name": "cofetarie",
+  "version": "1.0.0",
+  "description": "cofetarie online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cofetarie",
+    "prajituri",
+    "produse de patiserie",
+    "torturi",
+    "deserturi",
+    "dulciuri"
+  ],
+  "author": "Irina Ciocan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
