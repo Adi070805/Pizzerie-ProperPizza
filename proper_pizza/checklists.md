@@ -1,3 +1,9 @@
+# ✅ Checklists Proper Pizza
+
+Acest fișier conține toate checklist-urile disponibile în proiectul Proper Pizza.
+
+## Checklist Etapa 1
+
 # ✅ CHECKLIST ETAPA 1 - PROPER PIZZA
 
 ## Cerințe Obligatorii - Etapa 1
@@ -61,7 +67,7 @@
   - small (mobile): `resurse/imagini/pizza-small.jpg`
   - medium (tablet): `resurse/imagini/pizza-medium.jpg`
   - large (desktop): `resurse/imagini/pizza-large.jpg`
-- **TODO**: Creați 3 culturi ale aceiaști imagini cu dimensiuni diferite
+- **TODO**: Creați 3 culturi ale aceiași imagini cu dimensiuni diferite
 
 ### 12. Taguri de marcare text (3 din 8 opțiuni, dar am folosit 8!)
 - [x] `<b>` - 4 instanțe (cuvinte cheie)
